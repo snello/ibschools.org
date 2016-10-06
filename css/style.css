@@ -1686,7 +1686,7 @@ body:nth-of-type(1) #block01b .overlay ul li{
  	text-align:center;
 }
 #block02 .responsive-slider .slides ul li .slide-body .caption.subheader {
-  	top: 30%;
+  	top: 15%;
   	left:0;
   	width:100%;
 }
@@ -1778,7 +1778,7 @@ body:nth-of-type(1) #block01b .overlay ul li{
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -1837,7 +1837,7 @@ body:nth-of-type(1) #block01b .overlay ul li{
 	font:700 14px/49px 'Cormorant Garamond', Arial, Helvetica, sans-serif;
 	text-transform:uppercase;
 	text-decoration:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	float:left;
 	border:none;
@@ -1904,7 +1904,7 @@ body:nth-of-type(1) #block01b .overlay ul li{
  	text-align:center;
 }
 #slider .responsive-slider .slides ul li .slide-body .caption.subheader {
-  	top: 30%;
+  	top: 15%;
   	left:0;
   	width:100%;
     -webkit-text-stroke: 0.25px gray;
@@ -1994,12 +1994,13 @@ body:nth-of-type(1) #block01b .overlay ul li{
 	}
 #slider .more{
 	padding:0 30px;
-	font:700 14px/49px 'Cormorant Garamond', Arial, Helvetica, sans-serif;
+	font:700 18px/49px 'Cormorant Garamond', Arial, Helvetica, sans-serif;
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
+    background-color: red;
 	}
 #slider .pagerholder{
 	position:absolute;
@@ -2069,7 +2070,7 @@ body:nth-of-type(1) #block01b .overlay ul li{
  	text-align:center;
 }
 #block02c .responsive-slider .slides ul li .slide-body .caption.subheader {
-  	top: 30%;
+  	top: 15%;
   	left:0;
   	width:100%;
 }
@@ -2258,7 +2259,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
  	text-align:center;
 }
 #block02d .responsive-slider .slides ul li .slide-body .caption.subheader {
-  	top: 30%;
+  	top: 15%;
   	left:0;
   	width:100%;
 }
@@ -2546,7 +2547,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
  	text-align:center;
 }
 #block02f .responsive-slider .slides ul li .slide-body .caption.subheader {
-  	top: 30%;
+  	top: 15%;
   	left:0;
   	width:100%;
 }
@@ -2686,7 +2687,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 }
 #block02g .responsive-slider .slides ul li .slide-body .caption.subheader {
   	left: 0;
-	top: 30%;
+	top: 15%;
 	width: 50%;
 }
 
@@ -2754,7 +2755,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block02g .responsive-slider .slides ul li .sub{
@@ -2958,7 +2959,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block02h .block02h .feild{
@@ -3096,7 +3097,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -3143,7 +3144,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -3181,7 +3182,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -3332,7 +3333,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -3364,7 +3365,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -3464,7 +3465,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	background:none;
 	border:2px solid #ffffff;
 	}
@@ -3558,7 +3559,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -3642,7 +3643,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block05 .col .more{
@@ -3732,7 +3733,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block05a .col .more{
@@ -3826,7 +3827,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block05b .col .more{
@@ -3938,7 +3939,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -4042,7 +4043,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -4165,7 +4166,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -4299,7 +4300,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -4426,7 +4427,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -4537,7 +4538,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	}
 	
 /* /servoces */
@@ -4631,7 +4632,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	}
 #services .col .more{
 	padding:0;
@@ -4744,7 +4745,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block05j .col .more{
@@ -4864,7 +4865,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block05k .col .more{
@@ -4943,7 +4944,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -5016,7 +5017,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -5085,7 +5086,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 
@@ -5177,7 +5178,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 
@@ -5253,7 +5254,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 
@@ -5317,7 +5318,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	}
 
 /* /work */
@@ -5621,7 +5622,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}	
 	
@@ -5669,7 +5670,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}	
 	
@@ -5717,7 +5718,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}	
 /* /block08b */
@@ -5816,7 +5817,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}	
 	
@@ -5861,7 +5862,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}	
 	
@@ -5925,7 +5926,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}	
 	
@@ -6419,7 +6420,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-decoration:none;
 	border-width:2px;
 	margin:0 4px;
-	border-radius:0;
+	border-radius:10px;
 	opacity:0;
 	transition-delay: 0s;
 	}	
@@ -6759,7 +6760,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -6839,7 +6840,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -6916,7 +6917,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:none;
 	}
 	
@@ -6996,7 +6997,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:none;
 	}
 	
@@ -7078,7 +7079,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:none;
 	}
 	
@@ -7176,7 +7177,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:none;
 	}
 #block12d .social-icons ul{
@@ -7263,7 +7264,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:none;
 	}
 #block12e .map_holder iframe{
@@ -8702,7 +8703,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block15 .social{
@@ -8786,7 +8787,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block15a .social{
@@ -8885,7 +8886,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 #block15b .social{
@@ -8956,7 +8957,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9014,7 +9015,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9068,7 +9069,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9112,7 +9113,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	min-width:212px;
 	border:2px solid #ffffff;
 	}
@@ -9174,7 +9175,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-decoration:none;
 	border:none;
 	min-width:300px;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9252,7 +9253,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-decoration:none;
 	border:none;
 	min-width:100%;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9314,7 +9315,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	margin-bottom:28px;
 	border:2px solid #ffffff;
 	}
@@ -9399,7 +9400,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9469,7 +9470,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	text-transform:uppercase;
 	text-decoration:none;
 	border:none;
-	border-radius:0;
+	border-radius:10px;
 	border:2px solid #ffffff;
 	}
 	
@@ -9662,7 +9663,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	font-size:39px;
 	}
 #block02 .responsive-slider .slides ul li .slide-body .caption.learnmore{
-	bottom:30%;
+	bottom:15%;
 	}
 	
 /* /block02 */
@@ -9684,7 +9685,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee2e24', end
 	font-size:39px;
 	}
 #slider .responsive-slider .slides ul li .slide-body .caption.learnmore{
-	bottom:30%;
+	bottom:15%;
 	}
 	
 /* /slider */
